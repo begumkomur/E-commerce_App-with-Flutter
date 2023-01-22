@@ -1,16 +1,16 @@
 # proje
 
-A new Flutter project.
+# *RecycleShop_App :credit_card: :computer:		*
 
-## Getting Started
+### Uygulama Açıklaması
+------
 
-This project is a starting point for a Flutter application.
+![alt text](https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/09/wordpress-ile-eticaret-yapma-dikkat-edilmesi-gereken-8-onemli-nokta.png)
+>>Proje bir e- ticaret satış uygulamasıdır. Uygulamaya girmek için giriş yap, anonim olarak giriş yap ve kayıt ol butonları ile giriş yapılabilmektedir. Giriş yaptıktan sonra satışta olan ilanlar yer almaktadır. 
+Uygulama üzerinden ürün satışı için ürün ekleme ve ürünü eklerken fotoğrafının yüklenmesi ürün adı fiyatı girilmesi ve kategorisinin seçilmesi işlemi yapılmaktadır.
+Satın alınması istenilen ürün için ilanların görüntülenmesi ve bu ilanlar için satıcın bilgilerine ulaşılabilmektedir
+ Kullanıcı profili bulunmakta bu bölümde ise giriş yapan kullanıcın iletişim bilgileri yer almaktadır.
+Kullanıcı tarafından verdiği ilanı silebilme ve satın almak istediği ilan için ilan sahibine mesaj gönderebilmektedir ve satıcının bilgilerine gittikten sonra üstüne tıklandığında satıcıya puan verebilmektedir.
+İlanlarım bölümünde kullanıcının kendi yüklediği ilanları görebilmekte ve bu ilanları silebilme özelliği bulunmaktadır
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://user-images.githubusercontent.com/86318503/213913097-095ec580-df99-4600-8696-9062e1d92e9b.png)
