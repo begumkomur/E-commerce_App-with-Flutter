@@ -1,5 +1,7 @@
 # E-commerce_App-with-Flutter
 # *RecycleShop_App :credit_card: :computer:		*
+#Proje anlatım videosu ve raporuna aşağıdaki drive linkinden ulaşabilirsiniz
+https://drive.google.com/drive/folders/1i92MBlj1UMczm9NLQFCrxVArfH2aWd_y?usp=share_link
 
 ### Uygulama Açıklaması
 ------
